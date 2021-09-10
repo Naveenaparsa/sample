@@ -1,2 +1,2 @@
-# sample
-welcome
+hi welcome to git
+serach it
